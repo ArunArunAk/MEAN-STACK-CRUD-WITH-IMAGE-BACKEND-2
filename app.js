@@ -13,7 +13,7 @@ const port = process.env.PORT || 3000;
 
 mongoose
   .connect(
-    `mongodb+srv://arunarun2gs:Arun123%23@cluster0.cgnglhb.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+    `Add Atlas url here
     `,
     {
       useNewUrlParser: true,
